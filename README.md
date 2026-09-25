@@ -10,12 +10,6 @@ The project combines data analysis with a creative Halloween-themed design to ma
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Halloween Dashboard](Halloween-Dashboard.png)
-
----
-
 ## ✨ Dashboard Features
 
 - 🎃 **Total Count** – Displays the overall activity count of **13,980**
@@ -55,11 +49,7 @@ The objective of this project is to transform Halloween-related data into meanin
 
 ---
 
-## 📸 Dashboard
 
-![Halloween Dashboard](Halloween-Dashboard.png)
-
----
 
 ## 👩‍💻 Author
 
