@@ -47,12 +47,11 @@ The dashboard helps identify:
 
 The objective of this project is to transform Halloween-related data into meaningful visual insights. The dashboard makes it easier to understand historical patterns, visitor behavior, and future trends using charts and visual elements.
 
+DASHBOARD LINK
+
+https://public.tableau.com/views/tableauassignment_17880246473310/H?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
+
 ---
 
 
 
-## 👩‍💻 Author
-
-**Priya Sakthi**
-
-⭐ If you find this project useful, feel free to star the repository!
